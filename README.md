@@ -10,5 +10,7 @@ Tambien me desempeño como tutor de la carrera de apx.school, ayudando en dudas 
 Habilidades: HTML / CSS / JavaScript / TypeScript / NodeJS / POO / MVC / API REST / ExpressJS / Firebase / ReactJS En proceso .
 #### Contacto:
 Email: miqueaslazarte03@gmail.com
+
+
 Linkedin: https://www.linkedin.com/in/miqueas-lazarte/
 
